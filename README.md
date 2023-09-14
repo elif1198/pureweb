@@ -1,1 +1,1 @@
-# pureweb
+# purecleandetail.github.io
